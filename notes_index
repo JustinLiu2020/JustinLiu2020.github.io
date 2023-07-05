@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1>Notes you can copy!</h1>
-        <p>Here are a list of notes. Why am I saying notes so many times!</p>
+        <p>Here are a list of notes. Why am I saying notes so many times?!</p>
         <ul>
             <li a = href"math_notes.html">Math notes</li>
         <ul>
