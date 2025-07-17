@@ -15,8 +15,8 @@ strong {
 
 .slide-in {
   opacity: 0;
-  transform: translateX(-50px);
-  animation: slideFadeIn 1s ease-out forwards;
+  transform: translateX(-200px);
+  animation: slideFadeIn 2s ease-out forwards;
 }
 
 /* Animation definition */
