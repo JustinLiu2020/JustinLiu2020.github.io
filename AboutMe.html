@@ -44,5 +44,19 @@
             </p>
         </p>
     </section>
+    <script>
+        const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target); // only animate once
+            }
+        });
+        });
+
+        document.querySelectorAll('.scroll-in').forEach(el => {
+        observer.observe(el);
+        });
+    </script>
 </body>
 </html>
