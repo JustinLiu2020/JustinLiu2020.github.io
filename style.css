@@ -5,12 +5,12 @@ body {
 }
 h1, h2, h3, button, mark{
   font-family: 'Poppins', sans-serif;
-  color: #f88379;
+  color: #ffaaa2;
 }
 
 strong {
     font-family: 'Open Sans', sans-serif;
-    color: #add8e6
+    color: #c3f0ff
 }
 
 .slide-in {
@@ -27,8 +27,18 @@ strong {
   }
 }
 
+
+
 .round-img {
     border-style:solid;
     border-width: 2px;
-    border-color:#f88379;
+    border-color:#ffaaa2;
+}
+
+nav {
+    color: #c3f0ff;
+}
+
+a {
+    color: #ffaaa2;
 }
