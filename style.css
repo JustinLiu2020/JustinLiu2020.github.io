@@ -28,11 +28,7 @@ strong {
 }
 
 .round-img {
-  max-width: 100%;
-  width: 300px;
-  height: auto;
-  border-radius: 20px;  /* or 50% for perfect circle */
-  border-color: #f88379;
-  display: block;
-  margin-top: 10px;
+    border-style:solid;
+    border-width: 2px;
+    border-color:#f88379;
 }
