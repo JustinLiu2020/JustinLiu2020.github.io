@@ -50,12 +50,8 @@ nav a:hover {
 }
 
 img, video {
-  max-width: 100%;
+  max-width: 10%;
   height: auto;
   display: block;
   margin: 0 auto;
-}
-
-.bigimg {
-    max-width: 10%;
 }
