@@ -1,0 +1,14 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   color: #333333;
+   background-color: #fff;
+}
+h1, h2, h3, button, mark{
+  font-family: 'Poppins', sans-serif;
+  color: #f88379;
+}
+
+strong {
+    font-family: 'Open Sans', sans-serif;
+    color: #add8e6
+}
