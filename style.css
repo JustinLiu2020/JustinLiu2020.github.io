@@ -36,9 +36,15 @@ strong {
 }
 
 nav {
-    color: #c3f0ff;
+    background-color: #c3f0ff;
 }
 
-a {
+nav a {
     color: #ffaaa2;
+    font-weight: bold;
+    margin: 0px 15px;
+}
+
+nav a:hover {
+    color: #ff968c;
 }
