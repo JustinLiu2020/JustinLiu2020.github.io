@@ -2,7 +2,7 @@ body {
    font-family: 'Open Sans', sans-serif;
    color: #333333;
    background-color: #fff;
-   padding:0 2rem;
+   padding:0 5rem;
 }
 h1, h2, h3, button, mark{
   font-family: 'Poppins', sans-serif;
@@ -38,6 +38,7 @@ strong {
 
 nav {
     background-color: #c3f0ff;
+    padding:0 0rem;
 }
 
 nav a {
