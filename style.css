@@ -2,16 +2,11 @@ body {
    font-family: 'Open Sans', sans-serif;
    color: #333333;
    background-color: #fff;
+   padding:0 5rem;
 }
-
-p {
-    padding:0 5rem;
-}
-
 h1, h2, h3, button, mark{
   font-family: 'Poppins', sans-serif;
   color: #ffaaa2;
-  padding:0 5rem;
 }
 
 strong {
@@ -43,6 +38,7 @@ strong {
 
 nav {
     background-color: #c3f0ff;
+    padding:0;
     margin:0;
 }
 
@@ -61,12 +57,10 @@ img, video {
   height: auto;
   display: block;
   margin: 0 auto;
-  padding:0 5rem;
 }
 
 .left-img {
   display: block;
   margin: 1em 0;     /* spacing top & bottom */
   margin-left: 0;
-  padding:0 5rem;
 }
