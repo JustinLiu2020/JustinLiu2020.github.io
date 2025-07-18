@@ -55,3 +55,9 @@ img, video {
   display: block;
   margin: 0 auto;
 }
+
+.left-img {
+  display: block;
+  margin: 1em 0;     /* spacing top & bottom */
+  margin-left: 0;
+}
