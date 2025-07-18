@@ -58,6 +58,6 @@ img, video {
 
 .left-img {
   display: block;
-  margin: 1em 0;     /* spacing top & bottom */
+  margin: 2em 0;     /* spacing top & bottom */
   margin-left: 0;
 }
